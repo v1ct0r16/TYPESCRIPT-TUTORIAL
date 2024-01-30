@@ -5,7 +5,6 @@ console.log(lookup[0]);
 console.log(lookup[1]);
 var legend = victor;
 var addNumber = function () {
-    return;
 };
 function addsomehting() {
 }

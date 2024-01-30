@@ -10,7 +10,7 @@ console.log(lookup[1]);
 const legend:any = victor;
 
 const addNumber = () =>{
-return
+
 }
 
 function addsomehting () {
@@ -19,4 +19,3 @@ function addsomehting () {
 
 const addName = () => {return "welcome to arrow functions"
  addName ();}
- 
