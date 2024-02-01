@@ -7,7 +7,13 @@ var callBack = (function () {
 // arrow function
 var arrow = function () {
 };
-var addNumber = function (a, b, c) {
-    return (a + b);
+// const addNumber = (a:number, b:number, c:number) => {
+//   return (a + b )
+// }
+// // console.log(addNumber(8,9,10))
+// console.log(`The answer to this is ${addNumber(8,9,10)}`);
+var PI = function (cal) {
+    return (Math.PI * (cal));
 };
-console.log(addNumber(8, 9, 10));
+console.log(PI(3));
+var cons = function () { return console.log('Hello, world'); };
